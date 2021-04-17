@@ -10,7 +10,7 @@ namespace ConsoleApp22
     {
         static void Main(string[] args)
         {
-            int i = 5;
+            int i = 5;int tt = 99;
         }
     }
 }
